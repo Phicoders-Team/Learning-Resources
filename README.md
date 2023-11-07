@@ -6,7 +6,7 @@ Welcome to the Learning Resources repository! This open-source collection of lea
 
 - **Choose Your Topic:** Explore the directories to find resources on your topic of interest.
 
-- **Contribute:** Please refer to our [CONTRIBUTING.md](CONTRIBUTING.md) for more details on contributing guidelines.
+- **Contribute:** Please refer to our [CONTRIBUTING.md](contributing.md) for more details on contributing guidelines.
 
 ## Resources
 
